@@ -1,2 +1,2 @@
 # fledgepower-pivot-model
-Pivot object data model
+Pivot object data model specifications

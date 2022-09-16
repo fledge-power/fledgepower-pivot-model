@@ -1,0 +1,187 @@
+{
+    "@xmlns:xs": "http://www.w3.org/2001/XMLSchema",
+    "PIVOTTC": {
+        "GTIC": {
+            "Beh": {
+                "stVal": "on"
+            },
+            "Cause": {
+                "stVal": 1
+            },
+            "ComingFrom": "String",
+            "DevId": {
+                "name": "String"
+            },
+            "DevSt": {
+                "q": {
+                    "DetailQuality": {
+                        "badReference": true,
+                        "failure": true,
+                        "inconsistent": true,
+                        "innacurate": true,
+                        "oldData": true,
+                        "oscillatory": true,
+                        "outOfRange": true,
+                        "overflow": true
+                    },
+                    "Source": "process",
+                    "Validity": "good",
+                    "operatorBlocked": true,
+                    "test": true
+                },
+                "stVal": true,
+                "t": {
+                    "FractionOfSecond": 1,
+                    "SecondSinceEpoch": 1,
+                    "TimeQuality": {
+                        "clockFailure": true,
+                        "clockNotSynchronized": true,
+                        "leapSecondKnown": true,
+                        "timeAccuracy": 1
+                    }
+                }
+            },
+            "DpcTyp": {
+                "ctlVal": true,
+                "q": {
+                    "DetailQuality": {
+                        "badReference": true,
+                        "failure": true,
+                        "inconsistent": true,
+                        "innacurate": true,
+                        "oldData": true,
+                        "oscillatory": true,
+                        "outOfRange": true,
+                        "overflow": true
+                    },
+                    "Source": "process",
+                    "Validity": "good",
+                    "operatorBlocked": true,
+                    "test": true
+                },
+                "stVal": "intermediate-state",
+                "t": {
+                    "FractionOfSecond": 1,
+                    "SecondSinceEpoch": 1,
+                    "TimeQuality": {
+                        "clockFailure": true,
+                        "clockNotSynchronized": true,
+                        "leapSecondKnown": true,
+                        "timeAccuracy": 1
+                    }
+                }
+            },
+            "Identifier": "String",
+            "Qu": {
+                "stVal": 1
+            },
+            "ServiceType": {
+                "stVal": "select"
+            },
+            "SpcTyp": {
+                "ctlVal": true,
+                "q": {
+                    "DetailQuality": {
+                        "badReference": true,
+                        "failure": true,
+                        "inconsistent": true,
+                        "innacurate": true,
+                        "oldData": true,
+                        "oscillatory": true,
+                        "outOfRange": true,
+                        "overflow": true
+                    },
+                    "Source": "process",
+                    "Validity": "good",
+                    "operatorBlocked": true,
+                    "test": true
+                },
+                "stVal": true,
+                "t": {
+                    "FractionOfSecond": 1,
+                    "SecondSinceEpoch": 1,
+                    "TimeQuality": {
+                        "clockFailure": true,
+                        "clockNotSynchronized": true,
+                        "leapSecondKnown": true,
+                        "timeAccuracy": 1
+                    }
+                }
+            },
+            "Tag": {
+                "stVal": "NO-TAG"
+            },
+            "TagClass": {
+                "q": {
+                    "DetailQuality": {
+                        "badReference": true,
+                        "failure": true,
+                        "inconsistent": true,
+                        "innacurate": true,
+                        "oldData": true,
+                        "oscillatory": true,
+                        "outOfRange": true,
+                        "overflow": true
+                    },
+                    "Source": "process",
+                    "Validity": "good",
+                    "operatorBlocked": true,
+                    "test": true
+                },
+                "stVal": true,
+                "t": {
+                    "FractionOfSecond": 1,
+                    "SecondSinceEpoch": 1,
+                    "TimeQuality": {
+                        "clockFailure": true,
+                        "clockNotSynchronized": true,
+                        "leapSecondKnown": true,
+                        "timeAccuracy": 1
+                    }
+                }
+            },
+            "TaggedReason": "String",
+            "TmOrg": {
+                "stVal": "genuine"
+            },
+            "TmStamp": {
+                "q": {
+                    "DetailQuality": {
+                        "badReference": true,
+                        "failure": true,
+                        "inconsistent": true,
+                        "innacurate": true,
+                        "oldData": true,
+                        "oscillatory": true,
+                        "outOfRange": true,
+                        "overflow": true
+                    },
+                    "Source": "process",
+                    "Validity": "good",
+                    "operatorBlocked": true,
+                    "test": true
+                },
+                "stVal": {
+                    "FractionOfSecond": 1,
+                    "SecondSinceEpoch": 1,
+                    "TimeQuality": {
+                        "clockFailure": true,
+                        "clockNotSynchronized": true,
+                        "leapSecondKnown": true,
+                        "timeAccuracy": 1
+                    }
+                },
+                "t": {
+                    "FractionOfSecond": 1,
+                    "SecondSinceEpoch": 1,
+                    "TimeQuality": {
+                        "clockFailure": true,
+                        "clockNotSynchronized": true,
+                        "leapSecondKnown": true,
+                        "timeAccuracy": 1
+                    }
+                }
+            }
+        }
+    }
+}

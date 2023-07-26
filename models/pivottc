@@ -3,7 +3,7 @@
     "PIVOTTC": {
         "GTIC": {
             "Beh": {
-                "stVal": "on"
+                "stVal": "direct-ctl-wes"
             },
             "Cause": {
                 "stVal": 1
